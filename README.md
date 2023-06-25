@@ -21,3 +21,9 @@
 ## Стек
 
 Python, pandas, numpy, darts, matplotlib, seaborn.
+
+## Colab
+
+Обучение модели https://colab.research.google.com/drive/1JMZq4ZqvKrWm0jju1NSvST9V2Dw2Cl0W
+
+Использование модели https://drive.google.com/file/d/1EUoU75qYagvu2qKKMKlUsCiEnb5_cXCo/view?usp=sharing
