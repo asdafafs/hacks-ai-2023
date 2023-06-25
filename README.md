@@ -27,3 +27,7 @@ Python, pandas, numpy, darts, matplotlib, seaborn.
 Обучение модели https://colab.research.google.com/drive/1JMZq4ZqvKrWm0jju1NSvST9V2Dw2Cl0W
 
 Использование модели https://drive.google.com/file/d/1EUoU75qYagvu2qKKMKlUsCiEnb5_cXCo/view?usp=sharing
+
+Результат метрики
+
+![image](https://github.com/asdafafs/hacks-ai-2023/assets/75051539/849e1a20-aa83-4710-a20f-ca257073c89c)
